@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_pase;datatype:int,name:nom_ope;datatype:string,name:folio_medico;datatype:string,name:marca;datatype:string,name:hora;datatype:string,name:origen;datatype:string,name:destino;datatype:string" />
+</info>
